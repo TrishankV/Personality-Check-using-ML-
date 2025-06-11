@@ -15,10 +15,11 @@ Welcome to the **AI Personality Predictor**, a sleek and intelligent web app pow
 
 ---
 
-## 🚀 Live Demo
+## 🚀  Demo
+<img width="1470" alt="Screenshot 2025-06-12 at 12 58 12 AM" src="https://github.com/user-attachments/assets/206394fc-5f3e-434f-9fa2-03ef0ee92421" />
 
-> Coming soon on Streamlit Cloud / Hugging Face Spaces  
-*(Let me know if you want deployment steps too!)*
+><img width="1470" alt="Screenshot 2025-06-12 at 12 58 17 AM" src="https://github.com/user-attachments/assets/c0e93756-6a4e-485b-92a8-fcfed4984508" />
+
 
 ---
 
